@@ -3,3 +3,12 @@ Essa rotina tem por objetivo realizar a importação de uma nota fiscal de consu
 
 Durante processo a rotina realiza a vinculação com o pedido de compras e testa em qual empresa/filial deve ser feito a importação do arquivo XML.
 * [Vídeo da Rotina](https://www.youtube.com/watch?v=eXXCPgPJH3Y&feature=youtu.be)
+
+## Correção de Bugs e novas features (03/06/18)
+
+* Validação de existencia a de arquivo
+* Tratativa em caso de erro não derrubar mais o sistemas - ErrorBlock
+* Validação juntoa Sefaz da NF-e
+* Auto preechimento da TES utilizando a TES inteligente
+*  Seleção da NF de origem
+*  Auto cadastro de Produto Vs Fornecedor
